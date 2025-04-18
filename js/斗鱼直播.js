@@ -1,6 +1,6 @@
 var rule = {
     title:'斗鱼直播',
-    host:'https://m.douyu.com',
+    host:'https://douyu.com',
     homeUrl:'/api/home/mix',//网站的首页链接,用于分类获取和推荐获取
     url:'/api/room/list?page=fypage&type=fyfilter',
     filterable:1,//是否启用分类筛选,
